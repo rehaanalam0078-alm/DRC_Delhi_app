@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.DRCDelhi"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@android:color/white</item>
+
+    </style>
+
+    <style name="Theme.DRCDelhi"
+        parent="Base.Theme.DRCDelhi">
+
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/iconnn</item>
+
+        <item name="postSplashScreenTheme">@style/Base.Theme.DRCDelhi</item>
+
+    </style>
+
+</resources>
