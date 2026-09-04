@@ -408,11 +408,11 @@ The application supports both portrait and landscape orientations.
 
 # 📱 App Screenshots
 
-<img src="home.png" width="220"/>
-<img src="courses.png" width="220"/>
-<img src="featured-courses.png" width="220"/>
-<img src="navigation.png" width="220"/>
-<img src="testimonials.png" width="220"/>
+<img src="DRC_Delhi_app/blob/main/home.png.jpeg" width="220"/>
+<img src="DRC_Delhi_app/blob/main/navigation.png.jpeg" width="220"/>
+<img src="DRC_Delhi_app/blob/main/courses.png.jpeg" width="220"/>
+<img src="DRC_Delhi_app/blob/main/fratured-courses.png.jpeg" width="220"/>
+<img src="DRC_Delhi_app/blob/main/testimonials.png.jpeg" width="220"/>
 
 ---
 
